@@ -1,4 +1,4 @@
-# hello-world
+# About Me
 My name is Tyler and I am from Parker, Colorado.
 I am a Computer Science major at UCCS, and when I graduate,
 I am hoping to get a job working with the DoD, and
